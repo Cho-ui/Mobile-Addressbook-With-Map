@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Exercise for a React Native Mobile Programming Course"
   }
 }

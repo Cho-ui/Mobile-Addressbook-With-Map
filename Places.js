@@ -63,8 +63,6 @@ export default function Places({ navigation }) {
         </ListItem>
     )
 
-    //    <Button title="Map" onPress={() => navigation.navigate('Map')} />
-
     return (
         <View style={styles.container}>
             <StatusBar style="auto" />
